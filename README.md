@@ -16,9 +16,9 @@ The system includes two primary interfaces:
 - **Delete Medicine:** Remove medicines from the system.
 - **Update Medicine:** Update details like price, quantity, and description of existing medicines.
 - **View Receipts:** View all sales receipts stored in the system.
-- **View Customer list:** View all customers list stored in the system.
+- **View Customer list:** View all customer lists stored in the system.
 - **File Storage:** All data is saved in files, allowing persistence even after the program exits.
-- **List, Queue, Stack:** This shows that if we store in list how it looks like, if we store data in queue or stack how it looks like.
+- **List, Queue, Stack:** This shows that if we store in the list it looks like if we store data in a queue or stack how it looks like.
 
 ### Customer Features:
 - **Buy Medicine:** Customers can browse and purchase available medicines.
@@ -32,7 +32,7 @@ The system includes two primary interfaces:
 
 ### Data Structures:
 - **List:** Used to manage the collection of medicines.
-- **Queue:** Manages customer orders in a sequential manner.
+- **Queue:** sequentially manages customer orders.
 - **Stack:** Used to store and access receipts using a last-in, first-out (LIFO) method.
 
 ### File Handling:
@@ -69,6 +69,6 @@ The system includes two primary interfaces:
 ---
 
 ## How to Run:
-- You must have cpp compiler to run this program.
+- You must have a cpp compiler to run this program.
 - Dev cpp(6.0), VS code, CLion etc.
 - Not run on older versions.
