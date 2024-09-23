@@ -1,0 +1,24 @@
+Customer Name: khan
+Ordered Medicines:
+ - panadol
+Total Bill: 25
+------------------------
+Customer Name: khan
+Ordered Medicines:
+- Imodium
+- brufeen
+Total Bill: $285
+-------------------------
+	Customer Name: qasim
+	Ordered Medicines:
+- panadol
+- brufeen
+	Total Bill: Rs.61
+	-------------------------
+	Customer Name: Shakeel
+	Ordered Medicines:
+- Imodium
+- Aerinac
+- brufeen
+	Total Bill: Rs.374
+	-------------------------
